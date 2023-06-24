@@ -116,6 +116,6 @@
   - Итого: 11 нод по 3.68 CPU core, 9.9475 Gb RAM
 
     2. **Master nodes**
-- 1 CPU core, 4 Gb RAM, 3 ноды
+  - 1 CPU core, 4 Gb RAM, 3 ноды
 
 **Итого (с округлением в большую сторону): 14 нод, 44 CPU core, 122 Gb RAM**
